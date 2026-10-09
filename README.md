@@ -13,6 +13,8 @@ BANANA-Lite is a modified version of the [BANANA keyboard by RGBKB](https://gith
 - **Magnets:** the case and stand use 9 × 1/4" magnets instead of the original's 11 × 6 mm × 6 mm magnets.
 
 > **Note:** Only `10133.kicad_pcb` was modified. `10133.kicad_sch` is unchanged from the original and still shows the nav switch and RGB components.
+## Instructions
+Please view the original project for print and build instructions. They are the same.
 
 ## License
 
